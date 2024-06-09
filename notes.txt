@@ -1,0 +1,5 @@
+    <title> - tag
+    <title>Document</title>- element
+    Document - content
+    "UTF-8"- chnages data form into another
+
